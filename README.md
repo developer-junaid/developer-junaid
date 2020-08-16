@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there I am Junaid Qureshi, from Pakisan :pakistan: 👋
 
-<!--
-**developer-junaid/developer-junaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :classical_building: 3rd year IT Student, at University Of Sindh
 
-Here are some ideas to get you started:
+- :heavy_check_mark: Learned "Front End Development using React"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on "Full Stack Web Application Development" 
+
+- 🌱 I’m currently learning "Backend"
+
+- 📫 How to reach me:  
+- - :octocat: Github              => :link:	https://github.com/developer-junaid/developer-junaid/
+- - :large_blue_circle: Facebook: => :link:	https://www.facebook.com/profile.php?id=100041078220896
+- - :purple_circle: LinkedIn:     => :link:	https://www.linkedin.com/in/junaid-qureshi-34a180194/
+- - :large_blue_diamond: Facebook (Page): => :link:	https://www.facebook.com/developerJunaid
+
+- :medal_sports: Completed "5" projects, Including :
+- - :money_with_wings:	Expense Tracker    => :link:	http://your-expense-tracker.surge.sh/
+- - :shopping_cart:	:ice_skate:	 Nike Shoe Store => :link:	https://nike-shoe-store.netlify.app/
+- - :basecamp:	Explore Matiari Website => :link:	http://explore-matiari.surge.sh/
+- - :iphone:	Game Of Thrones Blog  => :link:	http://got-blog.surge.sh/
+- - :biohazard:	Corona Virus Tracker => :link:	http://covid19-virus-tracker.surge.sh/
+
