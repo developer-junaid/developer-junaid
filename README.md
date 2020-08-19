@@ -3,8 +3,9 @@
 - :classical_building: 3rd year IT Student, at University Of Sindh
 
 - :heavy_check_mark: Learned "Front End Development using React"
+- Learning "Full Stack Web Application Development" .....
 
-- 🔭 I’m currently working on "Full Stack Web Application Development" 
+- 🔭 I’m currently working on Building "Ecommerce Store Website using PHP and MySQL" 
 
 - 🌱 I’m currently learning "Backend"
 
