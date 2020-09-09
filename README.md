@@ -4,6 +4,7 @@
 
 - :heavy_check_mark: Learned "Front End Development using React"
 - Learning "Full Stack Web Application Development" .....
+- Learning "Artificial Intelligence" ... 
 
 - 🔭 I’m currently working on Building "Ecommerce Store Website using PHP and MySQL" 
 
