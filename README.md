@@ -6,7 +6,7 @@
 - Learning "Full Stack Web Application Development" .....
 - Learning "Artificial Intelligence" ... 
 
-- 🔭 I’m currently working on Building "Ecommerce Store Website using PHP and MySQL" 
+- 🔭 I’m currently working on Building "Online Quiz Application using React-js and Typescript" 
 
 - 🌱 I’m currently learning "Backend"
 
