@@ -10,7 +10,7 @@
 - 📫 How to reach me:  
 - - :octocat: Github              => :link:	https://github.com/developer-junaid/
 - - :large_blue_circle: Facebook: => :link:	https://www.facebook.com/profile.php?id=100041078220896
-- - :purple_circle: LinkedIn:     => :link:	https://www.linkedin.com/in/junaid-qureshi-34a180194/
+- - :purple_circle: LinkedIn:     => :link:	https://www.linkedin.com/in/developer-junaid
 - - :large_blue_diamond: Facebook (Page): => :link:	https://www.facebook.com/developerJunaid
 
 - :medal_sports: Completed "6" projects, Including :
