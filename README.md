@@ -22,5 +22,5 @@
 - - :iphone:	Game Of Thrones Blog  => :link:	http://got-blog.surge.sh/
 - - :biohazard:	Corona Virus Tracker => :link:	https://online-corona-tracker.web.app/
 - - :clipboard: Online Quiz App      => :link: http://online-quiz-app.surge.sh/
-- - 👨‍💻  Animated DevFolio         => :link: http://junaid-qureshi.surge.sh/
+- - 👨‍💻  Animated DevFolio         => :link: https://developer-junaid.web.app/
 
