@@ -6,7 +6,6 @@
 
 - :heavy_check_mark: Learned "Front End Development using React"
 - 🌱 Learning "Full Stack Web Application Development" .....
-- 🌱 Learning "Artificial Intelligence" ... 
 
 
 - 📫 How to reach me:  
