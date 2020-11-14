@@ -1,6 +1,5 @@
 ### Hi there I am Junaid Qureshi, from Pakisan :pakistan: 👋
-@website : http://junaid-qureshi.surge.sh/
-
+@website : https://developer-junaid.web.app/
 
 - :classical_building: 3rd year IT Student, at University Of Sindh
 
