@@ -14,7 +14,7 @@
 - - :purple_circle: LinkedIn:     => :link:	https://www.linkedin.com/in/developer-junaid
 - - :large_blue_diamond: Facebook (Page): => :link:	https://www.facebook.com/developerJunaid
 
-- :medal_sports: Completed "8" projects, Including :
+- :medal_sports: Completed "9" projects, Including :
 - - :money_with_wings:	"PWA" Expense Tracker    => :link:	https://your-expense-tracker.web.app/
 - - :shopping_cart:	 Nike Shoe Store => :link:	https://nike-shoe-store.netlify.app/
 - - :basecamp:	Explore Matiari Website => :link:	http://explore-matiari.surge.sh/
@@ -23,4 +23,5 @@
 - - :clipboard: "PWA" Online Quiz App      => :link: https://our-quiz.web.app/
 - - 👨‍💻  Animated DevFolio         => :link: https://developer-junaid.web.app/
 - - 🚀     Space-X launches Website =>  :link: https://launches-spacex.web.app/
+- - :closed_book: Diaries Manager Web App =>  :link: https://diaries-manager.web.app/
 
