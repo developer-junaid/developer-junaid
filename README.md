@@ -1,10 +1,9 @@
-### Hi there I am Junaid Qureshi, from Pakisan :pakistan: 👋
+### Hi there I am Junaid Qureshi, Full Stack Web Developer from Pakisan :pakistan: 👋
 @website : https://developer-junaid.web.app/
 
 - :classical_building: 3rd year IT Student, at University Of Sindh
 
-- :heavy_check_mark: Learned "Front End Development using React"
-- 🌱 Learning "Full Stack Web Application Development" .....
+- :heavy_check_mark: Full Stack Developer | React + Firebase Developer
 
 
 - 📫 How to reach me:  
