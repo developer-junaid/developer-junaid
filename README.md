@@ -9,7 +9,7 @@
 - 📫 How to reach me:  
 
 - - :octocat: Github              => :link:	https://github.com/developer-junaid/
-- - :large_blue_circle: Facebook: => :link:	https://www.facebook.com/profile.php?id=100041078220896
+- - :large_blue_circle: Facebook: => :link:	https://www.facebook.com/JunaidQureshi6/
 - - :purple_circle: LinkedIn:     => :link:	https://www.linkedin.com/in/developer-junaid
 - - :large_blue_diamond: Facebook (Page): => :link:	https://www.facebook.com/developerJunaid
 
