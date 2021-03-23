@@ -17,7 +17,7 @@
 - - :money_with_wings:	"PWA" Expense Tracker    => :link:	https://your-expense-tracker.web.app/
 - - :shopping_cart:	 Nike Shoe Store => :link:	https://nike-shoe-store.netlify.app/
 - - :basecamp:	Explore Matiari Website => :link:	http://explore-matiari.surge.sh/
-- - :iphone:	Game Of Thrones Blog  => :link:	http://got-blog.surge.sh/
+- - :iphone:	Game Of Thrones Blog  => :link:	https://game-of-thrones-blog.netlify.app/
 - - :biohazard:	Corona Virus Tracker => :link:	https://online-corona-tracker.web.app/
 - - :clipboard: "PWA" Online Quiz App      => :link: https://our-quiz.web.app/
 - - 👨‍💻  Animated DevFolio         => :link: https://developer-junaid.web.app/
