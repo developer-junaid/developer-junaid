@@ -13,12 +13,17 @@
 - - :large_blue_diamond: Facebook (Page): => :link:	https://www.facebook.com/developerJunaid
 
 ### :medal_sports: Projects :
-- :shopping_cart:	 Nike Shoe Store => :link:	https://nike-shoe-store.netlify.app/
-- :biohazard:	Corona Virus Tracker => :link:	https://online-corona-tracker.web.app/
-- :clipboard: "PWA" Online Quiz App      => :link: https://our-quiz.web.app/
-- 👨‍💻  Animated DevFolio         => :link: https://developer-junaid.web.app/
-- 🚀     Space-X launches Website =>  :link: https://launches-spacex.web.app/
-- :closed_book: Diaries Manager Web App =>  :link: https://diaries-manager.web.app/
-- :clipboard: Gatsby Blog Site      => :link: https://techberg-blog.netlify.app/
+- 	 **Nike Shoe Store (Website)** => :link:	https://nike-shoe-store.netlify.app/
+- 	**Corona Virus Tracker (Web App)** => :link:	https://online-corona-tracker.web.app/
+- **"PWA" Online Quiz (Web App)**      => :link: https://our-quiz.web.app/
+-  **Animated DevFolio**         => :link: https://developer-junaid.web.app/
+-   **Space-X launches (Website)** =>  :link: https://launches-spacex.web.app/
+-  **Diaries Manager (Web App)** =>  :link: https://diaries-manager.web.app/
+-  **Gatsby Blog (Website)**      => :link: https://techberg-blog.netlify.app/
+-  **Mobile First (Landing Page)**      => :link: https://mobile-first-design.netlify.app/
+-  **Gatsby Portfolio (Website)**      => :link: https://gatsbyjs-portfolio-site.netlify.app/
+-  **React Todo List (Web App)**     => :link: https://todo-taskbox.web.app/
+-  **Uber Eats (Landing Page)**      => :link: https://uber-eats-landing-page.netlify.app/
+
 
 
