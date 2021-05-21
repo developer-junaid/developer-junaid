@@ -1,4 +1,4 @@
-### Hi there I am Junaid Qureshi, Full Stack Web Developer from Pakisan :pakistan: 👋
+### Hi there I am Junaid Qureshi, Full Stack MERN and Gatsby Developer from Pakisan :pakistan: 👋
 ## @website : https://developer-junaid.web.app/
 
 ## :classical_building: IT Student, at University Of Sindh
