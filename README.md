@@ -2,7 +2,7 @@
 ## @website : https://developer-junaid.web.app/
 
 ## :classical_building: IT Student, at University Of Sindh
-## :heavy_check_mark: Full Stack Developer | React, Gatsby Developer
+## :heavy_check_mark: Full Stack Developer | MERN Stack | JAM Stack
 
 
 - 📫 How to reach me:  
