@@ -22,3 +22,55 @@
 - **Mobile First (Landing Page) => :link: https://mobile-first-design.netlify.app/**
 - **Online Quiz (PWA + ReactJs)      => :link: https://our-quiz.web.app/**
 - **Space-X launches (ReactJs + Typescript) =>  :link: https://launches-spacex.web.app/**
+
+
+## Technologies I Know
+
+
+- HTML
+### (Styling)
+- CSS 
+- Sass/Scss
+- Bootstrap
+- Material UI
+- Materialize
+- Tailwindcss
+
+### (Front-End)
+- Javascript (Advanced)
+- Typescript
+- React Js (CSR)
+- Gatsby Js (SSG)
+- Next Js (SSR)
+- PWA
+
+### (Back-End)
+- Node Js 
+- Express Js 
+- Rest API
+- GraphQl 
+- Serverless Lambda Functions
+
+### (Databases)
+- MongoDB 
+- Mirage Js
+- FaunaDB 
+- Contentful 
+- Firebase (Firestore)
+
+### (Tools)
+- Figma
+- Balsamiq
+- Git (and Github) 
+- Web Animations
+- CI/CD
+- Storybook
+
+### (Deployment)
+- Surge
+- Netlify
+- Heroku
+- Firebase 
+- Vercel
+
+
