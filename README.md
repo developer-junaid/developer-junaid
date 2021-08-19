@@ -61,6 +61,9 @@
 - Strapi
 - Contentful
 
+### (Ecommerce)
+- Stripe (Payments)
+
 ### (Tools)
 - Figma
 - Balsamiq
