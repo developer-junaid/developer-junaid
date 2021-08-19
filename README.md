@@ -55,8 +55,11 @@
 - MongoDB 
 - Mirage Js
 - FaunaDB 
-- Contentful 
 - Firebase (Firestore)
+
+### (CMS)
+- Strapi
+- Contentful
 
 ### (Tools)
 - Figma
