@@ -1,5 +1,5 @@
 ### Hi there I am Junaid Qureshi, Full Stack (MERN and JAM Stack) Developer from Pakisan :pakistan: 👋
-## @website : https://developer-junaid.web.app/
+## @website : https://developerjunaid.com/
 
 ## :classical_building: IT Student, at University Of Sindh
 ## :heavy_check_mark: Full Stack Developer | MERN Stack | JAM Stack
