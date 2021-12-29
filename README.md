@@ -2,7 +2,7 @@
 <!-- <a href="#"><img width="100%" height="auto" src="./final.jpg" height="100px"/></a> -->
 <!-- <a href="#"><img width="100%" height="auto" src="https://simplabs.com/assets/images/posts/2021-05-26-keeping-a-clean-git-history/illustration-a40c9543b15297efda375329d5ee380d.svg" height="175px"/></a> -->
 
-<a href="#"> <img  src="./transparent5.png"/></a>
+<a href="#"> <img  src="https://scontent.fkhi6-2.fna.fbcdn.net/v/t39.30808-6/p180x540/270304832_664862834892985_4433534694768734505_n.png?_nc_cat=107&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeEnqfJGiZfNxywrDIQIJYN1CR8nvSGm8OEJHye9Iabw4U2A9g_k0OnxBwcXkgQiJ1DOmb4xZf7OMBGuazRJmu6m&_nc_ohc=GcmYeZnWYWMAX-DpIpL&tn=noEtUC5ZYo37Lrqd&_nc_ht=scontent.fkhi6-2.fna&oh=00_AT-IU5Ln9jERuSGZgHojWpowpojLz588QcPeA2SaQlqNrg&oe=61D1CE3A"/></a>
 <!-- <a href="#"><img width="100%" height="auto" src="http://handboofixk.datalad.org/en/latest/_images/gitidentity.svg" height="175px"/></a> -->
 <!-- <a href="#"><img width="100%" height="auto" src="./icon.png" height="100px"/></a> -->
 
@@ -20,29 +20,18 @@
 - 📫 How to reach me **qjunaid623@gmail.com**
 - ⚡ Fun fact **I love coding and I'm a quick learner.**
 
-## 🚀 Languages and Tools:
+## 🚀 Technologies I know
 
-<p align="left"> 
-   <img src="https://img.icons8.com/dusk/64/000000/php-logo.png"/>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-   <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-</p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+- HTML, CSS, Javascript
+- MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJs)
+- JAM Stack (GatsbyJs, NextJs, GraphQl, FaunaDB, Serverless Cloud Functions, Headless CMS including Strapi and Contentful)
+- Styling (Tailwindcss, Material-UI, Chakra-UI, Materialize, Bootstrap, Bulma Css, Sass, Styled components)
+- Typescript
+- Stripe (Payments)
+- Databases (Firebase Firestore, FaunaDB, MongoDB)
+- Project Management (git, Github, CI/CD, Storybook, Trello, Jira, Bitbucket, Gitlab)
+- Design (Figma, Balsamiq, Canva)
+- Deployment (Vercel, Firebase, Heroku, Surge, Netlify, Shared hosting/C-panel)
 <br/>
 
 <p align="center">
