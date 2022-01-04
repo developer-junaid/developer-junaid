@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning **Web 3.0 Applications development and Amazon CDK**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://developerjunaid.com)**
-- 📫 How to reach me **qjunaid623@gmail.com**
+- 📫 How to reach me **junaid@developerjunaid.com**
 - ⚡ Fun fact **I love coding and I'm a quick learner.**
 
 ## 🚀 Technologies I know
