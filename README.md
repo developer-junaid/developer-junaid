@@ -2,7 +2,7 @@
 <!-- <a href="#"><img width="100%" height="auto" src="./final.jpg" height="100px"/></a> -->
 <!-- <a href="#"><img width="100%" height="auto" src="https://simplabs.com/assets/images/posts/2021-05-26-keeping-a-clean-git-history/illustration-a40c9543b15297efda375329d5ee380d.svg" height="175px"/></a> -->
 
-<a href="#"> <img  src="https://i.imgur.com/nWl4wlK.png"/></a>
+<a href="#"> <img  src="https://i.imgur.com/SwIlvyS.png"/></a>
 <!-- <a href="#"><img width="100%" height="auto" src="http://handboofixk.datalad.org/en/latest/_images/gitidentity.svg" height="175px"/></a> -->
 <!-- <a href="#"><img width="100%" height="auto" src="./icon.png" height="100px"/></a> -->
 
@@ -14,6 +14,7 @@
 <!-- <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div> -->
 <!-- - 🔭 I’m currently working on **<img src="./react.png"/>** -->
 
+- 🎓 Graduated in BS- Information Technology 
 - 🌱 I’m currently learning **Web 3.0 Applications development and Amazon CDK**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://developerjunaid.com)**
