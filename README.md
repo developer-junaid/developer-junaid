@@ -17,7 +17,7 @@
 - 🎓 Graduated in BS- Information Technology with **Award Winning FYP**
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://developerjunaid.com)**
 - ⭐ Level One Seller on fiverr
-- 🏆 Completed more than 20 projects with International clients with 5-star ratings and reviews
+- 🏆 Completed more than 20 projects with International clients with 5-star ratings and reviews **([Fiverr Account](https://www.fiverr.com/developerjunaid)**
 - 🤠 Coded 4000+ hours
 - ⭐ 80+ Repositories on GitHub
 - 📫 How to reach me **junaid@developerjunaid.com**
@@ -35,7 +35,7 @@
 - Project Management (git, Github, CI/CD, Storybook, Trello, Jira, Bitbucket, Gitlab)
 - Design (Figma, Balsamiq, Canva)
 - Deployment (Vercel, Firebase, Heroku, Surge, Netlify, Shared hosting/C-panel)
--
+
 <br/>
 
 <p align="center">
@@ -68,6 +68,8 @@
 <a href = "https://twitter.com/Junaid084869"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/developerjunaid/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/developerjunaidqureshi/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
+<a href = "https://www.fiverr.com/developerjunaid/"><img src="https://img.icons8.com/color/452/fiverr.png"/></a>
+
 
 </p>
 
