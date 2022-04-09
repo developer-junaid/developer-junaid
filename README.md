@@ -7,32 +7,35 @@
 <!-- <a href="#"><img width="100%" height="auto" src="./icon.png" height="100px"/></a> -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Junaid Qureshi</h1>
-<h3 align="center">I'm a passionate Full Stack Developer and Freelancer from Pakistan.</h3>
+<h3 align="center">I'm a passionate Full Stack Developer and Fiverr Level One Seller from Pakistan</h3>
 
 
 ## 🙋‍♂️ About Me
 <!-- <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div> -->
 <!-- - 🔭 I’m currently working on **<img src="./react.png"/>** -->
 
-- 🎓 Graduated in BS- Information Technology 
-- 🌱 I’m currently learning **Web 3.0 Applications development and Amazon CDK**
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 🎓 Graduated in BS- Information Technology with **Award Winning FYP**
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://developerjunaid.com)**
+- ⭐ Level One Seller on fiverr
+- 🏆 Completed more than 20 projects with International clients with 5-star ratings and reviews
+- 🤠 Coded 4000+ hours
+- ⭐ 80+ Repositories on GitHub
 - 📫 How to reach me **junaid@developerjunaid.com**
 - ⚡ Fun fact **I love coding and I'm a quick learner.**
 
 ## 🚀 Technologies I know
 
-- HTML, CSS, Javascript
+- HTML, CSS, Javascript, Typescript
+- Web 3 (Metamask Integration, Web3.js, Ethers.js, SmartContract Integration, Web3 UI)
 - MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJs)
-- JAM Stack (GatsbyJs, NextJs, GraphQl, FaunaDB, Serverless Cloud Functions, Headless CMS including Strapi and Contentful)
+- JAM Stack (GatsbyJs, NextJs, GraphQl, FaunaDB, Serverless Cloud Functions, Headless CMS including Strapi, Contentful and Sanity)
 - Styling (Tailwindcss, Material-UI, Chakra-UI, Materialize, Bootstrap, Bulma Css, Sass, Styled components)
-- Typescript
-- Stripe (Payments)
-- Databases (Firebase Firestore, FaunaDB, MongoDB)
+- Stripe, Razorpay (Payments)
+- Databases (Firebase Firestore, FaunaDB, MongoDB, PostgreSQL)
 - Project Management (git, Github, CI/CD, Storybook, Trello, Jira, Bitbucket, Gitlab)
 - Design (Figma, Balsamiq, Canva)
 - Deployment (Vercel, Firebase, Heroku, Surge, Netlify, Shared hosting/C-panel)
+-
 <br/>
 
 <p align="center">
