@@ -36,6 +36,7 @@
 - Design (Figma, Balsamiq, Canva)
 - Deployment (Vercel, Firebase, Heroku, Surge, Netlify, Shared hosting/C-panel)
 
+
 <br/>
 
 <p align="center">
@@ -72,6 +73,8 @@
 
 
 </p>
+
+[![committers.top badge](https://user-badge.committers.top/pakistan/developer-junaid.svg)](https://user-badge.committers.top/pakistan/developer-junaid)
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
