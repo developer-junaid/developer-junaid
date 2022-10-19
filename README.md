@@ -9,6 +9,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Junaid Qureshi</h1>
 <h3 align="center">I'm a passionate Full Stack Developer and Fiverr Level One Seller from Pakistan</h3>
 
+[![@developerjunaid's Holopin board](https://holopin.me/developerjunaid)](https://holopin.io/@developerjunaid)
 
 ## 🙋‍♂️ About Me
 <!-- <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div> -->
