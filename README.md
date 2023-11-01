@@ -18,7 +18,7 @@
 
 - 🎓 Graduated in BS- Information Technology with **Award Winning FYP**
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://developerjunaid.com)**
-- ⭐ Level One Seller on fiverr
+- ⭐ Left Fiverr !
 - 🏆 Completed more than 20 projects with International clients with 5-star ratings and reviews **([Fiverr Account](https://www.fiverr.com/developerjunaid))**
 - 🤠 Coded 4000+ hours
 - ⭐ 80+ Repositories on GitHub
