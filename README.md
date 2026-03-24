@@ -1,84 +1,110 @@
-<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
-<!-- <a href="#"><img width="100%" height="auto" src="./final.jpg" height="100px"/></a> -->
-<!-- <a href="#"><img width="100%" height="auto" src="https://simplabs.com/assets/images/posts/2021-05-26-keeping-a-clean-git-history/illustration-a40c9543b15297efda375329d5ee380d.svg" height="175px"/></a> -->
-
+<!-- Banner -->
 [![@developerjunaid's Holopin board](https://holopin.me/developerjunaid)](https://holopin.io/@developerjunaid)
 
-<!-- <a href="#"><img width="100%" height="auto" src="http://handboofixk.datalad.org/en/latest/_images/gitidentity.svg" height="175px"/></a> -->
-<!-- <a href="#"><img width="100%" height="auto" src="./icon.png" height="100px"/></a> -->
+<h1 align="center">Hi 👋, I'm Junaid Qureshi</h1>
+<h3 align="center">Software Architect • Full-Stack Engineer • Founder @ Devnito</h3>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Junaid Qureshi</h1>
-<h3 align="center">I'm a passionate Full Stack Developer and Fiverr Level One Seller from Pakistan</h3>
+<p align="center">
+Building production-grade systems that scale 🚀
+</p>
 
+---
 
-## 🙋‍♂️ About Me
-<!-- <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div> -->
-<!-- - 🔭 I’m currently working on **<img src="./react.png"/>** -->
+## 🧠 About Me
 
-- 🎓 Graduated in BS- Information Technology with **Award Winning FYP**
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://developerjunaid.com)**
-- ⭐ Left Fiverr !
-- 🏆 Completed more than 20 projects with International clients with 5-star ratings and reviews **([Fiverr Account](https://www.fiverr.com/developerjunaid))**
-- 🤠 Coded 4000+ hours
-- ⭐ 80+ Repositories on GitHub
-- 📫 How to reach me **junaid@developerjunaid.com**
-- ⚡ Fun fact **I love coding and I'm a quick learner.**
+- 🏢 Head of Engineering @ Stay Gold (USA)  
+- 🚀 Founder @ Devnito (Engineering Partner for scalable products)  
+- 🌍 Member of WiFi Tribe (global community of founders & builders)  
 
-## 🚀 Technologies I know
+I design and build high-performance systems for startups and product teams — from architecture to full-stack delivery.
 
-- HTML, CSS, Javascript, Typescript
-- Web 3 (Metamask Integration, Web3.js, Ethers.js, SmartContract Integration, Web3 UI)
-- MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJs)
-- JAM Stack (GatsbyJs, NextJs, GraphQl, FaunaDB, Serverless Cloud Functions, Headless CMS including Strapi, Contentful and Sanity)
-- Styling (Tailwindcss, Material-UI, Chakra-UI, Materialize, Bootstrap, Bulma Css, Sass, Styled components)
-- Stripe, Razorpay (Payments)
-- Databases (Firebase Firestore, FaunaDB, MongoDB, PostgreSQL)
-- Project Management (git, Github, CI/CD, Storybook, Trello, Jira, Bitbucket, Gitlab)
-- Design (Figma, Balsamiq, Canva)
-- Deployment (Vercel, Firebase, Heroku, Surge, Netlify, Shared hosting/C-panel)
+Over time, I’ve moved from writing code → to designing systems, leading teams, and building products that scale.
 
+---
 
-<br/>
+## ⚡ Authority & Impact
+
+- 🚀 70+ global product deliveries  
+- 💰 Supported systems scaling $10M+  
+- ⚡ 99.9% uptime across production systems  
+- 👥 14.5K+ YouTube subscribers  
+- 🎥 65K+ developer content views  
+- 🌐 6K+ LinkedIn audience  
+- 🧑‍💻 900+ developer community members  
+
+---
+
+## 🎥 Beyond Client Work
+
+- 📺 Teaching full-stack development on YouTube  
+- 👥 Mentoring developers in web & freelancing  
+- ✍️ Sharing insights on system design & scaling  
+
+---
+
+## 🧰 Technologies I Work With
+
+- Frontend: React.js, Next.js, TypeScript, Tailwind  
+- Backend: Node.js, NestJS, Express  
+- Databases: PostgreSQL, MongoDB, Redis  
+- Infra: AWS, Docker, CI/CD, Vercel  
+- Other: Stripe, Web3, AI integrations  
+
+---
+
+## 🧠 Engineering Philosophy
+
+Most systems don’t fail because of code.
+
+They fail because of:
+- poor early decisions  
+- lack of scalability planning  
+- accumulating technical debt  
+
+I focus on:
+- designing systems that scale from day one  
+- building for long-term maintainability  
+- aligning engineering with business outcomes  
+
+---
+
+## 📂 Work
+
+👉 Portfolio: https://developerjunaid.com  
+👉 Devnito: https://www.devnito.com  
+
+---
+
+## 📊 GitHub Activity & Stats
 
 <p align="center">
     <a href="https://github.com/developer-junaid/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-junaid&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-junaid&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
-## 📊 My Github Stats
+<a href="https://github.com/developer-junaid/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=developer-junaid&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
 
-  <br/>
-    <a href="https://github.com/developer-junaid/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=developer-junaid&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/developer-junaid/github-readme-stats"><img alt="Developer Junaid's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-junaid&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<a href="https://github.com/developer-junaid/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-junaid&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
 
 
-<br/>
-<br/>
+## 🤝 Connect with me
 
-<a href="https://github.com/developer-junaid/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=developer-junaid&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-## Connect with me:
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/developer-junaid/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Junaid084869"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/developerjunaid/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/developerjunaidqureshi/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
-<a href = "https://www.fiverr.com/developerjunaid/"><img src="https://img.icons8.com/color/48/fiverr.png"/></a>
-
-
+<a href="https://www.linkedin.com/in/developer-junaid/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="https://twitter.com/Junaid084869"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href="https://www.instagram.com/developerjunaid/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href="https://www.facebook.com/developerjunaidqureshi/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 </p>
 
-[![committers.top badge](https://user-badge.committers.top/pakistan/developer-junaid.svg)](https://user-badge.committers.top/pakistan/developer-junaid)
+---
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=developer-junaid">
-</a>
-<a href="https://github.com/developer-junaid?tab=followers"><img src="https://img.shields.io/github/followers/developer-junaid?label=Followers&style=social" alt="GitHub Badge"></a>
+## ⚡ Final Note
+
+I’m not just a developer.
+
+I help build systems that *actually survive growth
